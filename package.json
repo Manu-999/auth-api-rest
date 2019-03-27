@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "express-demo",
   "version": "1.0.0",
   "description": "express demo",
   "main": "index.js",
@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "manu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
