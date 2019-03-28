@@ -1,3 +1,20 @@
 {
-    "users": []
+    "users": [
+        {
+            "username": "manuel",
+            "password": "12345678",
+            "email": "manuelbalbas@gmail.com"
+        },
+        {
+            "username": "manuel2",
+            "password": "12345678",
+            "email": "manuelbalbas2@gmail.com"
+        },
+        {
+            "id": "1xy7u32ijtrd6ahn",
+            "username": "manuel3",
+            "email": "manuelbalbas3@gmail.com",
+            "password": "12345678"
+        }
+    ]
 }

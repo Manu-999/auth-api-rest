@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login con Express JS</title>
+    <style>
+        h1 {
+            margin: 10px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            max-width: 300px;
+        }
+
+        input {
+            margin: 10px;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Logueate</h1>
+    <form action="view.js" method="POST">
+        <input type="text" placeholder="email" id="email">
+        <input type="text" placeholder="password" name="password" id="password">
+        <input type="submit" class="signup">
+    </form>
+</body>
+
+</html>
